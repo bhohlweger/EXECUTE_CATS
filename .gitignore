@@ -1,0 +1,14 @@
+CMakeFiles/*
+CMakeLists.txt
+*~
+CMakeCache.txt
+cmake_install.cmake
+*.pdf
+*.png
+*.root
+EXECUTABLE
+configure.sh
+ppOnly
+pXiOnly
+comp
+Makefile
